@@ -1,3 +1,6 @@
+<!--
+work on version 2
+-->
 # About Me
 
 Hi, I'm Ilić Bogdan, a programmer from Croatia. 
